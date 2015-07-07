@@ -24,4 +24,6 @@ public final class App {
         System.out.println(greeting);
         LOG.info(greeting);
     }
+	
+	// just to get it built
 }
